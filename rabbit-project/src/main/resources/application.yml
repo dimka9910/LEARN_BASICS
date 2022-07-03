@@ -1,0 +1,15 @@
+service:
+  mq:
+    host: localhost #idm-route.vdrsk.digdes.com
+    port: 5672
+    username: guest
+    password: guest #idm-rmq-cluster
+
+
+spring:
+  rabbitmq:
+    host: localhost
+    connection-timeout: 60000
+    port: 5672
+    username: guest
+    password: guest

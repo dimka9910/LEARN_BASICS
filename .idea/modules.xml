@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hibernate-project/hibernate-project.iml" filepath="$PROJECT_DIR$/hibernate-project/hibernate-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-project/kafka-project.iml" filepath="$PROJECT_DIR$/kafka-project/kafka-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-project/kafka-project-app/kafka-project-app.iml" filepath="$PROJECT_DIR$/kafka-project/kafka-project-app/kafka-project-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-project/kafka-project-service/kafka-project-service.iml" filepath="$PROJECT_DIR$/kafka-project/kafka-project-service/kafka-project-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-project/kafka-project-web/kafka-project-web.iml" filepath="$PROJECT_DIR$/kafka-project/kafka-project-web/kafka-project-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spbstu/music-synchronization.iml" filepath="$PROJECT_DIR$/spbstu/music-synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spbstu/music-synchronization-app/music-synchronization-app.iml" filepath="$PROJECT_DIR$/spbstu/music-synchronization-app/music-synchronization-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spbstu/music-synchronization-dto/music-synchronization-dto.iml" filepath="$PROJECT_DIR$/spbstu/music-synchronization-dto/music-synchronization-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spbstu/music-synchronization-rest/music-synchronization-rest.iml" filepath="$PROJECT_DIR$/spbstu/music-synchronization-rest/music-synchronization-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spbstu/music-synchronization-service/music-synchronization-service.iml" filepath="$PROJECT_DIR$/spbstu/music-synchronization-service/music-synchronization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/personal.iml" filepath="$PROJECT_DIR$/.idea/personal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-project/rabbit-project.iml" filepath="$PROJECT_DIR$/rabbit-project/rabbit-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testTasks/testTasks.iml" filepath="$PROJECT_DIR$/testTasks/testTasks.iml" />
+    </modules>
+  </component>
+</project>

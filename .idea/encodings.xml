@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hibernate-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/music-synchronization-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/music-synchronization-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/music-synchronization-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/music-synchronization-dto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/music-synchronization-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/music-synchronization-rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/music-synchronization-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/music-synchronization-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spbstu/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testTasks/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testTasks/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

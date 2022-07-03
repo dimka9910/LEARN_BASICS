@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-project-service" />
+        <module name="kafka-project-web" />
+        <module name="music-synchronization-rest" />
+        <module name="music-synchronization-service" />
+        <module name="testTasks" />
+        <module name="hibernate-project" />
+        <module name="rabbit-project" />
+        <module name="music-synchronization-dto" />
+        <module name="kafka-project-app" />
+        <module name="music-synchronization-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hibernate-project" target="16" />
+      <module name="kafka-project" target="16" />
+      <module name="kafka-project-app" target="16" />
+      <module name="kafka-project-service" target="16" />
+      <module name="kafka-project-web" target="16" />
+      <module name="music-synchronization" target="1.8" />
+      <module name="music-synchronization-app" target="1.8" />
+      <module name="music-synchronization-dto" target="1.8" />
+      <module name="music-synchronization-rest" target="1.8" />
+      <module name="music-synchronization-service" target="1.8" />
+      <module name="rabbit-project" target="16" />
+      <module name="testTasks" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hibernate-project" options="-parameters" />
+      <module name="music-synchronization-app" options="-parameters" />
+      <module name="music-synchronization-dto" options="-parameters" />
+      <module name="music-synchronization-rest" options="-parameters" />
+      <module name="music-synchronization-service" options="-parameters" />
+      <module name="rabbit-project" options="-parameters" />
+      <module name="testTasks" options="-parameters" />
+    </option>
+  </component>
+</project>
